@@ -1,0 +1,288 @@
+{
+  "partidas": [
+    {
+      "id": "m001",
+      "data": "2026-06-11",
+      "hora": "19:00",
+      "time_a": "México",
+      "time_b": "África do Sul",
+      "grupo": "Grupo A",
+      "fase": "Grupos",
+      "estadio": "Estadio Azteca",
+      "cidade": "Cidade do México, México",
+      "status": "encerrado",
+      "placar": "2-0",
+      "alerta": false,
+      "destaque": "Jogo de abertura da Copa 2026."
+    },
+    {
+      "id": "m002",
+      "data": "2026-06-11",
+      "hora": "22:00",
+      "time_a": "Coreia do Sul",
+      "time_b": "Tchéquia",
+      "grupo": "Grupo A",
+      "fase": "Grupos",
+      "estadio": "Estadio Akron",
+      "cidade": "Guadalajara, México",
+      "status": "encerrado",
+      "placar": "2-1",
+      "alerta": true,
+      "destaque": "Segunda partida do Grupo A."
+    },
+    {
+      "id": "m003",
+      "data": "2026-06-12",
+      "hora": "16:00",
+      "time_a": "Canadá",
+      "time_b": "Bósnia e Herzegovina",
+      "grupo": "Grupo B",
+      "fase": "Grupos",
+      "estadio": "BMO Field",
+      "cidade": "Toronto, Canadá",
+      "status": "encerrado",
+      "placar": "1-1",
+      "alerta": true,
+      "destaque": "Estreia canadense como país-sede."
+    },
+    {
+      "id": "m004",
+      "data": "2026-06-12",
+      "hora": "22:00",
+      "time_a": "Estados Unidos",
+      "time_b": "Paraguai",
+      "grupo": "Grupo D",
+      "fase": "Grupos",
+      "estadio": "SoFi Stadium",
+      "cidade": "Los Angeles, EUA",
+      "status": "encerrado",
+      "placar": "4-1",
+      "alerta": true,
+      "destaque": "Estreia dos EUA como país-sede."
+    },
+    {
+      "id": "m005",
+      "data": "2026-06-13",
+      "hora": "13:00",
+      "time_a": "Haiti",
+      "time_b": "Escócia",
+      "grupo": "Grupo C",
+      "fase": "Grupos",
+      "estadio": "Gillette Stadium",
+      "cidade": "Boston, EUA",
+      "status": "agendado",
+      "placar": "",
+      "alerta": true,
+      "destaque": "Partida de abertura do Grupo C."
+    },
+    {
+      "id": "m006",
+      "data": "2026-06-13",
+      "hora": "16:00",
+      "time_a": "Austrália",
+      "time_b": "Turquia",
+      "grupo": "Grupo D",
+      "fase": "Grupos",
+      "estadio": "BC Place",
+      "cidade": "Vancouver, Canadá",
+      "status": "agendado",
+      "placar": "",
+      "alerta": false,
+      "destaque": "Duelo de estilos físicos e transição rápida."
+    },
+    {
+      "id": "m007",
+      "data": "2026-06-13",
+      "hora": "18:00",
+      "time_a": "Brasil",
+      "time_b": "Marrocos",
+      "grupo": "Grupo C",
+      "fase": "Grupos",
+      "estadio": "MetLife Stadium",
+      "cidade": "East Rutherford, EUA",
+      "status": "agendado",
+      "placar": "",
+      "alerta": true,
+      "destaque": "Jogo forte para acompanhar no app."
+    },
+    {
+      "id": "m008",
+      "data": "2026-06-13",
+      "hora": "21:00",
+      "time_a": "Catar",
+      "time_b": "Suíça",
+      "grupo": "Grupo B",
+      "fase": "Grupos",
+      "estadio": "Levi's Stadium",
+      "cidade": "Santa Clara, EUA",
+      "status": "agendado",
+      "placar": "",
+      "alerta": true,
+      "destaque": "Jogo noturno do Grupo B."
+    },
+    {
+      "id": "m009",
+      "data": "2026-06-16",
+      "hora": "16:00",
+      "time_a": "França",
+      "time_b": "Senegal",
+      "grupo": "Grupo I",
+      "fase": "Grupos",
+      "estadio": "MetLife Stadium",
+      "cidade": "East Rutherford, EUA",
+      "status": "agendado",
+      "placar": "",
+      "alerta": true,
+      "destaque": "Partida adicionada para testar alertas no dia atual."
+    },
+    {
+      "id": "m010",
+      "data": "2026-06-22",
+      "hora": "21:00",
+      "time_a": "Noruega",
+      "time_b": "Senegal",
+      "grupo": "Grupo I",
+      "fase": "Grupos",
+      "estadio": "MetLife Stadium",
+      "cidade": "East Rutherford, EUA",
+      "status": "agendado",
+      "placar": "",
+      "alerta": false,
+      "destaque": "Rodada decisiva para o grupo."
+    },
+    {
+      "id": "r32_01",
+      "data": "2026-06-28",
+      "hora": "18:00",
+      "time_a": "1º Grupo A",
+      "time_b": "3º melhor colocado",
+      "grupo": "Mata-mata",
+      "fase": "16 avos",
+      "estadio": "A definir",
+      "cidade": "A definir",
+      "status": "agendado",
+      "placar": "",
+      "alerta": true,
+      "destaque": "Nova fase com 32 seleções no mata-mata."
+    },
+    {
+      "id": "qf_01",
+      "data": "2026-07-10",
+      "hora": "21:00",
+      "time_a": "Quartas 1",
+      "time_b": "Quartas 2",
+      "grupo": "Mata-mata",
+      "fase": "Quartas",
+      "estadio": "SoFi Stadium",
+      "cidade": "Los Angeles, EUA",
+      "status": "agendado",
+      "placar": "",
+      "alerta": false,
+      "destaque": "Quartas de final."
+    },
+    {
+      "id": "sf_01",
+      "data": "2026-07-14",
+      "hora": "21:00",
+      "time_a": "Semifinalista 1",
+      "time_b": "Semifinalista 2",
+      "grupo": "Mata-mata",
+      "fase": "Semifinal",
+      "estadio": "A definir",
+      "cidade": "A definir",
+      "status": "agendado",
+      "placar": "",
+      "alerta": true,
+      "destaque": "Semifinal da Copa 2026."
+    },
+    {
+      "id": "final_2026",
+      "data": "2026-07-19",
+      "hora": "18:00",
+      "time_a": "Finalista 1",
+      "time_b": "Finalista 2",
+      "grupo": "Mata-mata",
+      "fase": "Final",
+      "estadio": "MetLife Stadium",
+      "cidade": "East Rutherford, EUA",
+      "status": "agendado",
+      "placar": "",
+      "alerta": true,
+      "destaque": "Final da Copa do Mundo 2026."
+    }
+  ],
+  "jogadores": [
+    {
+      "pais": "Brasil",
+      "nome": "Alisson",
+      "posicao": "GOL",
+      "camisa": 1
+    },
+    {
+      "pais": "Brasil",
+      "nome": "Marquinhos",
+      "posicao": "ZAG",
+      "camisa": 4
+    },
+    {
+      "pais": "Brasil",
+      "nome": "Bruno Guimarães",
+      "posicao": "MEI",
+      "camisa": 8
+    },
+    {
+      "pais": "Brasil",
+      "nome": "Vinícius Jr.",
+      "posicao": "ATA",
+      "camisa": 7
+    },
+    {
+      "pais": "Marrocos",
+      "nome": "Bono",
+      "posicao": "GOL",
+      "camisa": 1
+    },
+    {
+      "pais": "Marrocos",
+      "nome": "Hakimi",
+      "posicao": "LAT",
+      "camisa": 2
+    },
+    {
+      "pais": "Marrocos",
+      "nome": "Amrabat",
+      "posicao": "MEI",
+      "camisa": 4
+    },
+    {
+      "pais": "Marrocos",
+      "nome": "Ziyech",
+      "posicao": "ATA",
+      "camisa": 7
+    },
+    {
+      "pais": "França",
+      "nome": "Maignan",
+      "posicao": "GOL",
+      "camisa": 16
+    },
+    {
+      "pais": "França",
+      "nome": "Griezmann",
+      "posicao": "MEI",
+      "camisa": 7
+    },
+    {
+      "pais": "Senegal",
+      "nome": "Mané",
+      "posicao": "ATA",
+      "camisa": 10
+    },
+    {
+      "pais": "México",
+      "nome": "Ochoa",
+      "posicao": "GOL",
+      "camisa": 13
+    }
+  ]
+}
